@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tugcepinarbas
+- 👋 Hi, I’m Tugce Pinarbas
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C#
   
